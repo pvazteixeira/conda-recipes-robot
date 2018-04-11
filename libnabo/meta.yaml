@@ -16,3 +16,4 @@ requirements:
 about:
   home: https://github.com/ethz-asl/libnabo
   license: LGPL-3.0 
+  summary: A fast K Nearest Neighbor library for low-dimensional spaces 
